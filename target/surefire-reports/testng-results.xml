@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="97" started-at="2020-04-07T20:28:20 EDT" finished-at="2020-04-07T20:28:20 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="97" started-at="2020-04-07T20:28:20 EDT" finished-at="2020-04-07T20:28:20 EDT">
+      <class name="mavenproject.seleniumTest">
+        <test-method status="PASS" signature="SeleniumAutomaton()[pri:0, instance:mavenproject.seleniumTest@7c469c48]" name="SeleniumAutomaton" duration-ms="11" started-at="2020-04-07T20:28:20 EDT" finished-at="2020-04-07T20:28:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumAutomaton -->
+        <test-method status="PASS" signature="SeleniumUi()[pri:0, instance:mavenproject.seleniumTest@7c469c48]" name="SeleniumUi" duration-ms="1" started-at="2020-04-07T20:28:20 EDT" finished-at="2020-04-07T20:28:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumUi -->
+      </class> <!-- mavenproject.seleniumTest -->
+      <class name="mavenproject.RESTAPITest">
+        <test-method status="PASS" signature="PoastJira()[pri:0, instance:mavenproject.RESTAPITest@12e61fe6]" name="PoastJira" duration-ms="1" started-at="2020-04-07T20:28:20 EDT" finished-at="2020-04-07T20:28:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PoastJira -->
+        <test-method status="PASS" signature="RestapiTest()[pri:0, instance:mavenproject.RESTAPITest@12e61fe6]" name="RestapiTest" duration-ms="1" started-at="2020-04-07T20:28:20 EDT" finished-at="2020-04-07T20:28:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestapiTest -->
+      </class> <!-- mavenproject.RESTAPITest -->
+      <class name="mavenproject.AppiumTest">
+        <test-method status="PASS" signature="PoastJira()[pri:0, instance:mavenproject.AppiumTest@7ee955a8]" name="PoastJira" duration-ms="1" started-at="2020-04-07T20:28:20 EDT" finished-at="2020-04-07T20:28:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PoastJira -->
+        <test-method status="PASS" signature="RestapiTest()[pri:0, instance:mavenproject.AppiumTest@7ee955a8]" name="RestapiTest" duration-ms="1" started-at="2020-04-07T20:28:20 EDT" finished-at="2020-04-07T20:28:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestapiTest -->
+      </class> <!-- mavenproject.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
