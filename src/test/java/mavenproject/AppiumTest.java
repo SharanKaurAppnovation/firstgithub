@@ -9,6 +9,10 @@ public class AppiumTest {
 	@Test
 	public void RestapiTest() {
 		System.out.println("RESTAPITest");
+		System.out.println("RESTAPITest");
+		System.out.println("RESTAPITest");
+		System.out.println("RESTAPITest");
+
 	}
 	
 	
