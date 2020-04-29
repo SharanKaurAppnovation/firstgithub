@@ -17,6 +17,8 @@ public class seleniumTest {
 	public void SeleniumUi() {
 		
 		System.out.println("SeleniumUi");
+		System.out.println("PoastJira");
+		System.out.println("PoastJira");
 		
 	}
 

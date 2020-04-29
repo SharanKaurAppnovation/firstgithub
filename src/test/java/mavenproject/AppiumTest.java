@@ -19,6 +19,9 @@ public class AppiumTest {
 	
 	@Test
 	public void PoastJira() {
+
+		System.out.println("PoastJira");
+		System.out.println("PoastJira");
 		System.out.println("PoastJira");
 	}
 

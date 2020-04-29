@@ -9,6 +9,8 @@ public class TESTAPITest {
 	@Test
 	public void RestapiTest() {
 		System.out.println("RESTAPITest");
+		System.out.println("PoastJira");
+		System.out.println("PoastJira");
 	}
 	
 	
